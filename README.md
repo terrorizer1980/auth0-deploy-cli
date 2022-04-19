@@ -34,7 +34,7 @@ Supported Auth0 Management API resources
 - [ ] [Jobs](https://auth0.com/docs/api/management/v2#!/Jobs/get_jobs_by_id)
 - [ ] [Stats](https://auth0.com/docs/api/management/v2#!/Stats/get_active_users)
 - [x] [Tenants (Pages and Migrations)](https://auth0.com/docs/api/management/v2#!/Tenants/get_settings)
-- [ ] [Anomaly](https://auth0.com/docs/api/management/v2#!/Anomaly/get_ips_by_id)
+- [x] [Attack Protection](https://auth0.com/docs/api/management/v2#!/Attack_Protection/get_breached_password_detection)
 - [ ] [Tickets](https://auth0.com/docs/api/management/v2#!/Tickets/post_email_verification)
 - [ ] [Signing Keys](https://auth0.com/docs/api/management/v2#!/Keys/get_signing_keys)
 
